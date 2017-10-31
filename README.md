@@ -6,4 +6,4 @@ file name stands for the problem code in spoj.
 * Some other spoj handle you might wanna see
                    [saanjh](http://www.spoj.com/users/saanjh)
                    [uditgulati0](http://www.spoj.com/users/uditgulati0/)
-                   Tosa
+                   
