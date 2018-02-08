@@ -5,6 +5,7 @@
 #include <cstring>
 #include <map>
 #include <set>
+#include<vector>
 using namespace std;
 typedef long long int ll;
 int main()
