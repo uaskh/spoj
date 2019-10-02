@@ -1,4 +1,4 @@
-## Repo for my solutions of a few SPOJ problems
+## Repo for my solutions of a few SPOJ famous problems
 
 file name stands for the problem code in spoj.
 
